@@ -1,5 +1,7 @@
 # Parkinson’s Disease Detection
 
+This project is based on the Data-Flair tutorial "Python Machine Learning project - Detecting Parkinson Disease" (https://data-flair.training/blogs/python-machine-learning-project-detecting-parkinson-disease/).
+
 This repo contains two scripts plus the dataset:
 
 - **model.py** trains and saves a Parkinson’s prediction model.  
